@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:51:59.242Z",
+  "updatedAt": "2026-11-11T04:54:55.134Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -618,8 +618,8 @@
       "id": "mimo-co",
       "nombre": "Mimo & Co",
       "rubro": "Niños",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/31%20logo%20Mimo%20%26%20Co%20bahia%20blanca.webp?updatedAt=1748683068369",
+      "logo": "uploads/logos/mimo-co-mwbn7wxotf6.webp",
+      "logoUrl": "",
       "promos": []
     },
     {
