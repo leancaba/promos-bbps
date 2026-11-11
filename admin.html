@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Administrador · Directorio BBPS</title>
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin">
+  <div class="wrap">
+    <header class="a-hdr">
+      <a href="/" class="pill hdr-pill" title="Ver la web pública">
+        <img src="img/logo-bbps.png" alt="Bahía Blanca Plaza Shopping" class="hdr-logo">
+      </a>
+      <nav class="a-nav" id="nav" hidden>
+        <a href="/" target="_blank" rel="noopener">VER SITIO ↗</a>
+        <button type="button" id="logout">SALIR</button>
+      </nav>
+    </header>
+
+    <!-- Acceso -->
+    <section class="gate" id="gate" hidden>
+      <h1>PANEL DE ADMINISTRADOR</h1>
+      <form id="gateForm" class="gate-form" autocomplete="off">
+        <input id="gatePin" type="password" inputmode="numeric" placeholder="PIN" aria-label="PIN de administrador" autofocus>
+        <button class="a-btn dark" type="submit">ENTRAR</button>
+      </form>
+      <p class="gate-msg" id="gateMsg" aria-live="polite"></p>
+    </section>
+
+    <main id="app" hidden>
+      <!-- Gráficas promocionales -->
+      <section class="a-sec reveal" aria-labelledby="tGraf">
+        <h2 class="sr" id="tGraf">Gráficas promocionales</h2>
+        <div class="graf-row">
+          <p class="graf-label">GRÁFICA PROMOCIONAL <span>(2066 px X 618 px)</span> :</p>
+          <label class="a-btn file">
+            CARGAR IMAGEN
+            <input type="file" accept="image/*" id="fDesk" hidden>
+          </label>
+          <div class="graf-prev wide" id="pDesk"></div>
+        </div>
+        <div class="graf-row">
+          <p class="graf-label">GRÁFICA PROMOCIONAL MOBILE <span>(1024 px X 1024 px)</span> :</p>
+          <label class="a-btn file">
+            CARGAR IMAGEN
+            <input type="file" accept="image/*" id="fMob" hidden>
+          </label>
+          <div class="graf-prev square" id="pMob"></div>
+        </div>
+        <div class="center">
+          <button class="a-btn dark big" id="saveGraf" disabled>GUARDAR</button>
+        </div>
+      </section>
+
+      <!-- Locales y promociones -->
+      <section class="a-sec reveal" aria-labelledby="tLoc">
+        <h2 class="a-title" id="tLoc">LOCALES Y PROMOCIONES</h2>
+        <div class="import" id="importBox" hidden>
+          <p id="importTxt"></p>
+          <button class="a-btn" type="button" id="importBtn">DESCARGAR LOGOS AL REPOSITORIO</button>
+        </div>
+        <p class="editing" id="editing" hidden></p>
+
+        <form class="loc-form" id="locForm" autocomplete="off">
+          <div class="col">
+            <input class="a-input" id="lNombre" placeholder="NOMBRE DE LOCAL" maxlength="80" required>
+            <input class="a-input" id="lRubro" placeholder="RUBRO" maxlength="120" list="rubros" title="Si tiene varios rubros, separalos con coma">
+            <datalist id="rubros"></datalist>
+            <label class="a-btn dark file">
+              CARGAR LOGO
+              <input type="file" accept="image/*" id="fLogo" hidden>
+            </label>
+            <div class="logo-prev" id="pLogo" hidden></div>
+          </div>
+
+          <div class="col">
+            <div class="promo-list" id="promoList"></div>
+            <button type="button" class="add-promo" id="addPromo"><span>+</span> AGREGAR PROMO</button>
+          </div>
+
+          <div class="col actions">
+            <button class="a-btn dark big" type="submit" id="saveLoc">GUARDAR</button>
+            <button class="link" type="button" id="cancelEdit" hidden>CANCELAR EDICIÓN</button>
+          </div>
+        </form>
+
+        <div class="list-tools">
+          <input class="a-input small" id="listQ" type="search" placeholder="BUSCAR EN LA LISTA..." aria-label="Buscar en la lista de locales">
+          <span class="count" id="count"></span>
+        </div>
+        <ul class="loc-list" id="locList"></ul>
+      </section>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="js/admin.js"></script>
+</body>
+</html>

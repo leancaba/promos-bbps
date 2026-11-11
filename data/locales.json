@@ -1,0 +1,921 @@
+{
+  "updatedAt": "2026-11-10T23:00:00.000Z",
+  "banner": {
+    "desktop": "",
+    "mobile": ""
+  },
+  "locales": [
+    {
+      "id": "eva-miller",
+      "nombre": "Eva Miller",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/5deLoxE.png",
+      "promos": []
+    },
+    {
+      "id": "jumbalay",
+      "nombre": "Jumbalay",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/vVzQoT5.png",
+      "promos": []
+    },
+    {
+      "id": "cover-by-soul",
+      "nombre": "Cover by Soul",
+      "rubro": "Tecnología",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/Jdpd9cH.png",
+      "promos": []
+    },
+    {
+      "id": "infinit",
+      "nombre": "Infinit",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/RJY33mx.png",
+      "promos": []
+    },
+    {
+      "id": "loot-comic-local",
+      "nombre": "Loot Comic - Local",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/ecvaRQm.png",
+      "promos": []
+    },
+    {
+      "id": "ay-que-lindo",
+      "nombre": "Ay que lindo!",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/QANnAyQ.png",
+      "promos": []
+    },
+    {
+      "id": "mundo-outdoor",
+      "nombre": "Mundo Outdoor",
+      "rubro": "Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/XSG94x4.png",
+      "promos": []
+    },
+    {
+      "id": "city-girl",
+      "nombre": "City Girl",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/Ks5qMeo.png",
+      "promos": []
+    },
+    {
+      "id": "punto-apple-bahia",
+      "nombre": "Punto Apple Bahia",
+      "rubro": "Tecnología",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logo.png?updatedAt=1756223367021",
+      "promos": []
+    },
+    {
+      "id": "loot-comic",
+      "nombre": "Loot Comic",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/loot.png?updatedAt=1755869945810",
+      "promos": []
+    },
+    {
+      "id": "arturito",
+      "nombre": "Arturito",
+      "rubro": "Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/logo%20arturito.png?updatedAt=1752578641021",
+      "promos": []
+    },
+    {
+      "id": "corcel-citroen",
+      "nombre": "Corcel Citroën",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/citroen.webp?updatedAt=1750899801447",
+      "promos": []
+    },
+    {
+      "id": "pato-pampa",
+      "nombre": "Pato Pampa",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/27%20logo%20Pato%20Pampa%20bahia%20blanca.webp?updatedAt=1748683066357",
+      "promos": []
+    },
+    {
+      "id": "cardon",
+      "nombre": "Cardon",
+      "rubro": "Moda Mujer, Moda Hombre, Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/02%20logo%20cardon%20bahia%20blanca.png?updatedAt=1742899726660",
+      "promos": []
+    },
+    {
+      "id": "sestina",
+      "nombre": "Sestina",
+      "rubro": "Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/40%20logo%20Sestina%20bahia%20blanca.webp?updatedAt=1748683070794",
+      "promos": []
+    },
+    {
+      "id": "raffael-bertin-beauty",
+      "nombre": "Raffael Bertin Beauty",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/75%20logo%20Raffael%20Bertin%20Beauty%20bahia%20blanca.webp?updatedAt=1748683082067",
+      "promos": []
+    },
+    {
+      "id": "charlies-candy",
+      "nombre": "Charlies Candy",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/90%20logo%20Charlys%20Candy%20bahia%20blanca.webp?updatedAt=1748683086970",
+      "promos": []
+    },
+    {
+      "id": "made-deco",
+      "nombre": "Made Deco",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/9FRdVEB.png",
+      "promos": []
+    },
+    {
+      "id": "montagne",
+      "nombre": "Montagne",
+      "rubro": "Deporte Outdoor",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/36%20logo%20Montagne%20bahia%20blanca.webp?updatedAt=1748683070162",
+      "promos": []
+    },
+    {
+      "id": "kevingston",
+      "nombre": "Kevingston",
+      "rubro": "Moda Mujer, Moda Hombre, Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/109%20logo%20Kevingstone%20bahia%20blanca.webp?updatedAt=1748685229309",
+      "promos": []
+    },
+    {
+      "id": "santa-bohemia",
+      "nombre": "Santa Bohemia",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/iNVWVna.png",
+      "promos": []
+    },
+    {
+      "id": "corcel-peugeot",
+      "nombre": "Corcel Peugeot",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/peugeot.webp?updatedAt=1750899801505",
+      "promos": []
+    },
+    {
+      "id": "tarjeta-bbps",
+      "nombre": "Tarjeta BBPS",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/87%20logo%20Tarjeta%20BBPS%20bahia%20blanca.webp?updatedAt=1748683086110",
+      "promos": []
+    },
+    {
+      "id": "eco-doc",
+      "nombre": "Eco Doc",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/80%20logo%20Eco%20Doc%20bahia%20blanca.webp?updatedAt=1748683083387",
+      "promos": []
+    },
+    {
+      "id": "esencia-de-los-artesanos",
+      "nombre": "Esencia de los Artesanos",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/51%20logo%20Esencia%20de%20los%20Artesanos%20bahia%20blanca.webp?updatedAt=1748683074068",
+      "promos": []
+    },
+    {
+      "id": "todomoda",
+      "nombre": "Todomoda",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/19%20logo%20Todomoda%20bahia%20blanca.webp?updatedAt=1748683062991",
+      "promos": []
+    },
+    {
+      "id": "madison-brew-station",
+      "nombre": "Madison Brew Station",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/111%20logo%20Madison%20Brew%20Station%20bahia%20blanca.webp?updatedAt=1748687108049",
+      "promos": []
+    },
+    {
+      "id": "grimoldi",
+      "nombre": "Grimoldi",
+      "rubro": "Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/37%20logo%20Grimoldi%20bahia%20blanca.webp?updatedAt=1748683070196",
+      "promos": []
+    },
+    {
+      "id": "portsaid",
+      "nombre": "Portsaid",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/15%20logo%20Portsaid%20bahia%20blanca.webp?updatedAt=1748683062908",
+      "promos": []
+    },
+    {
+      "id": "sayhueque",
+      "nombre": "Sayhueque",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/56%20logo%20Sayhueque%20bahia%20blanca.webp?updatedAt=1748683076518",
+      "promos": []
+    },
+    {
+      "id": "tucci",
+      "nombre": "Tucci",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/20%20logo%20Tucci%20bahia%20blanca.webp?updatedAt=1748683062867",
+      "promos": []
+    },
+    {
+      "id": "prune",
+      "nombre": "Prüne",
+      "rubro": "Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/39%20logo%20Pr%C3%BCne%20bahia%20blanca.webp?updatedAt=1748683070058",
+      "promos": []
+    },
+    {
+      "id": "panthera",
+      "nombre": "Panthera",
+      "rubro": "Joyería",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/94%20logo%20Panthera%20bahia%20blanca.webp?updatedAt=1748683087047",
+      "promos": []
+    },
+    {
+      "id": "levi-s",
+      "nombre": "Levi's",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/10%20logo%20levis%20bahia%20blanca.png?updatedAt=1742899726879",
+      "promos": []
+    },
+    {
+      "id": "julien",
+      "nombre": "Julien",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/06%20logo%20julien%20bahia%20blanca.png?updatedAt=1742899726762",
+      "promos": []
+    },
+    {
+      "id": "holly",
+      "nombre": "HOLLY",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/52%20logo%20HOLLY%20bahia%20blanca.webp?updatedAt=1748683073938",
+      "promos": []
+    },
+    {
+      "id": "casabianca",
+      "nombre": "Casabianca",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/50%20logo%20Casabianca%20bahia%20blanca.webp?updatedAt=1748683073024",
+      "promos": []
+    },
+    {
+      "id": "aaron-pet-shop",
+      "nombre": "Aaron Pet Shop",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/88%20logo%20Aaron%20Pet%20Shop%20bahia%20blanca.webp?updatedAt=1748683086872",
+      "promos": []
+    },
+    {
+      "id": "yenny",
+      "nombre": "Yenny",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/95%20logo%20Yenny%20bahia%20blanca.webp?updatedAt=1748683088090",
+      "promos": []
+    },
+    {
+      "id": "yagmour",
+      "nombre": "Yagmour",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/22%20logo%20Yagmour%20bahia%20blanca.webp?updatedAt=1748683066106",
+      "promos": []
+    },
+    {
+      "id": "victor",
+      "nombre": "Victor",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/70%20logo%20Victor%20bahia%20blanca.webp?updatedAt=1748683079920",
+      "promos": []
+    },
+    {
+      "id": "shell",
+      "nombre": "Shell",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/86%20logo%20Shell%20bahia%20blanca.webp?updatedAt=1748683085887",
+      "promos": []
+    },
+    {
+      "id": "xl-extra-large",
+      "nombre": "XL Extra Large",
+      "rubro": "Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/41%20logo%20XL%20Extra%20Large%20bahia%20blanca.webp?updatedAt=1748683070842",
+      "promos": []
+    },
+    {
+      "id": "ver",
+      "nombre": "Ver",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/21%20logo%20Ver%20bahia%20blanca.webp?updatedAt=1748683066082",
+      "promos": []
+    },
+    {
+      "id": "trailcar-jeep",
+      "nombre": "Trailcar Jeep",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/102%20logo%20Trailcar%20Jeep%20bahia%20blanca.webp?updatedAt=1748683089350",
+      "promos": []
+    },
+    {
+      "id": "rouge",
+      "nombre": "Rouge",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/76%20logo%20Rouge%20bahia%20blanca.webp?updatedAt=1748683083174",
+      "promos": []
+    },
+    {
+      "id": "mega-lab",
+      "nombre": "Mega Lab",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/81%20logo%20Mega%20Lab%20bahia%20blanca.webp?updatedAt=1748683083558",
+      "promos": []
+    },
+    {
+      "id": "skinhouse-lidherma",
+      "nombre": "Skinhouse Lidherma",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/77%20logo%20Skinhouse%20Lidherma%20bahia%20blanca.webp?updatedAt=1748683083239",
+      "promos": []
+    },
+    {
+      "id": "terra-pizzas",
+      "nombre": "Terra Pizzas",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/68%20logo%20Terra%20Pizzas%20bahia%20blanca.webp?updatedAt=1748683080001",
+      "promos": []
+    },
+    {
+      "id": "the-skin-store",
+      "nombre": "The Skin Store",
+      "rubro": "Tecnología",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/108%20logo%20The%20Skin%20Store%20bahia%20blanca.webp?updatedAt=1748685229471",
+      "promos": []
+    },
+    {
+      "id": "selu",
+      "nombre": "Selú",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/18%20logo%20Sel%C3%BA%20bahia%20blanca.webp?updatedAt=1748683062861",
+      "promos": []
+    },
+    {
+      "id": "septimo",
+      "nombre": "Séptimo",
+      "rubro": "Deporte Outdoor",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/35%20logo%20S%C3%A9ptimo%20bahia%20blanca.webp?updatedAt=1748683070016",
+      "promos": []
+    },
+    {
+      "id": "sacoa",
+      "nombre": "Sacoa",
+      "rubro": "Entretenimiento",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/49%20logo%20Sacoa%20bahia%20blanca.webp?updatedAt=1748683073140",
+      "promos": []
+    },
+    {
+      "id": "samsung-store",
+      "nombre": "Samsung Store",
+      "rubro": "Tecnología",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/44%20logo%20Samsung%20Store%20bahia%20blanca.webp?updatedAt=1748683072134",
+      "promos": []
+    },
+    {
+      "id": "sapem",
+      "nombre": "Sapem",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/85%20logo%20Sapem%20bahia%20blanca.webp?updatedAt=1748683084933",
+      "promos": []
+    },
+    {
+      "id": "royal-prestige",
+      "nombre": "Royal Prestige",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/55%20logo%20Royal%20Prestige%20bahia%20blanca.webp?updatedAt=1748683075556",
+      "promos": []
+    },
+    {
+      "id": "risk-point-outdoor",
+      "nombre": "Risk Point Outdoor",
+      "rubro": "Deporte Outdoor",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/33%20logo%20Risk%20Point%20Outdoor%20bahia%20blanca.webp?updatedAt=1748683068648",
+      "promos": []
+    },
+    {
+      "id": "raffael-bertin",
+      "nombre": "Raffael Bertin",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/74%20logo%20Raffael%20Bertin%20bahia%20blanca.webp?updatedAt=1748683080160",
+      "promos": []
+    },
+    {
+      "id": "melocoton",
+      "nombre": "Melocotón",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/13%20logo%20Melocot%C3%B3n%20bahia%20blanca.webp?updatedAt=1748683062947",
+      "promos": []
+    },
+    {
+      "id": "ramira",
+      "nombre": "Ramira",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/17%20logo%20Ramira%20bahia%20blanca.webp?updatedAt=1748683062946",
+      "promos": []
+    },
+    {
+      "id": "rapipago",
+      "nombre": "Rapipago",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/83%20logo%20Rapipago%20bahia%20blanca.webp?updatedAt=1748683083506",
+      "promos": []
+    },
+    {
+      "id": "the-coffee-store",
+      "nombre": "The Coffee Store",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/69%20logo%20The%20Coffee%20Store%20bahia%20blanca.webp?updatedAt=1748683079873",
+      "promos": []
+    },
+    {
+      "id": "ramira-chulas",
+      "nombre": "Ramira Chulas",
+      "rubro": "Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/32%20logo%20Ramira%20Chulas%20bahia%20blanca.webp?updatedAt=1748683068351",
+      "promos": []
+    },
+    {
+      "id": "pampero",
+      "nombre": "Pampero",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/14%20logo%20Pampero%20bahia%20blanca.webp?updatedAt=1748683062853",
+      "promos": []
+    },
+    {
+      "id": "shopping-futbol-club",
+      "nombre": "Shopping Fútbol Club",
+      "rubro": "Deporte Tiempo Libre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/96%20logo%20Shopping%20F%C3%BAtbol%20Club%20bahia%20blanca.webp?updatedAt=1748683089048",
+      "promos": []
+    },
+    {
+      "id": "petit-rainbow",
+      "nombre": "Petit Rainbow",
+      "rubro": "Hogar y Deco",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/110%20logo%20Petit%20Rainbow%20bahia%20blanca.webp?updatedAt=1748685229368",
+      "promos": []
+    },
+    {
+      "id": "pronto-wash",
+      "nombre": "Pronto Wash",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/82%20logo%20Pronto%20Wash%20bahia%20blanca.webp?updatedAt=1748683083604",
+      "promos": []
+    },
+    {
+      "id": "parfumerie",
+      "nombre": "Parfumerie",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/73%20logo%20Parfumerie%20bahia%20blanca.webp?updatedAt=1748683079959",
+      "promos": []
+    },
+    {
+      "id": "mas-que-plata",
+      "nombre": "Más que Plata",
+      "rubro": "Joyería",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/99%20logo%20M%C3%A1s%20que%20Plata%20bahia%20blanca.webp?updatedAt=1748683089633",
+      "promos": []
+    },
+    {
+      "id": "optica-ventura",
+      "nombre": "Óptica Ventura",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/93%20logo%20%C3%93ptica%20Ventura%20bahia%20blanca.webp?updatedAt=1748683086980",
+      "promos": []
+    },
+    {
+      "id": "joyeria-santarelli",
+      "nombre": "Joyería Santarelli",
+      "rubro": "Joyería",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/98%20logo%20Joyer%C3%ADa%20Santarelli%20bahia%20blanca.webp?updatedAt=1748683089289",
+      "promos": []
+    },
+    {
+      "id": "modde-gaming",
+      "nombre": "Modde Gaming",
+      "rubro": "Entretenimiento",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/48%20logo%20Modde%20Gaming%20bahia%20blanca.webp?updatedAt=1748683073701",
+      "promos": []
+    },
+    {
+      "id": "mcdonald-s",
+      "nombre": "McDonald's",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/66%20logo%20McDonalds%20bahia%20blanca.webp?updatedAt=1748683079853",
+      "promos": []
+    },
+    {
+      "id": "cinemacenter",
+      "nombre": "Cinemacenter",
+      "rubro": "Entretenimiento",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/45%20logo%20Cinemacenter%20bahia%20blanca.webp?updatedAt=1748683072963",
+      "promos": []
+    },
+    {
+      "id": "mimo-co",
+      "nombre": "Mimo & Co",
+      "rubro": "Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/31%20logo%20Mimo%20%26%20Co%20bahia%20blanca.webp?updatedAt=1748683068369",
+      "promos": []
+    },
+    {
+      "id": "mcdonald-s-stand-de-postres",
+      "nombre": "McDonald's Stand de Postres",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/66%20logo%20McDonalds%20bahia%20blanca.webp?updatedAt=1748683079853",
+      "promos": []
+    },
+    {
+      "id": "maschio-vestire",
+      "nombre": "Maschio Vestire",
+      "rubro": "Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/26%20logo%20Maschio%20Vestire%20bahia%20blanca.webp?updatedAt=1748683066293",
+      "promos": []
+    },
+    {
+      "id": "markova",
+      "nombre": "Markova",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/12%20logo%20Markova%20bahia%20blanca.webp?updatedAt=1748683062846",
+      "promos": []
+    },
+    {
+      "id": "lovely-denim",
+      "nombre": "Lovely Denim",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/11%20logo%20Lovely%20Denim%20bahia%20blanca.webp?updatedAt=1748683062931",
+      "promos": []
+    },
+    {
+      "id": "lemon-pie",
+      "nombre": "Lemon Pie",
+      "rubro": "Zapaterías y Marroquinerías",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/38%20logo%20Lemon%20Pie%20bahia%20blanca.webp?updatedAt=1748683070125",
+      "promos": []
+    },
+    {
+      "id": "lacoste",
+      "nombre": "Lacoste",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/08%20logo%20lacoste%20bahia%20blanca.png?updatedAt=1742899726919",
+      "promos": []
+    },
+    {
+      "id": "mostaza",
+      "nombre": "Mostaza",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/67%20logo%20Mostaza%20bahia%20blanca.webp?updatedAt=1748683079849",
+      "promos": []
+    },
+    {
+      "id": "legacy",
+      "nombre": "Legacy",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/09%20logo%20legacy%20bahia%20blanca.png?updatedAt=1742899726875",
+      "promos": []
+    },
+    {
+      "id": "kosiuko-herencia",
+      "nombre": "Kosiuko / Herencia",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/07%20logo%20kosiuko%20bahia%20blanca.png?updatedAt=1742899726731",
+      "promos": []
+    },
+    {
+      "id": "lago-chevrolet",
+      "nombre": "Lago Chevrolet",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/chevrolet.webp?updatedAt=1750899801361",
+      "promos": []
+    },
+    {
+      "id": "automac",
+      "nombre": "AutoMac",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/71%20logo%20AutoMac%20bahia%20blanca.webp?updatedAt=1748683080059",
+      "promos": []
+    },
+    {
+      "id": "havanna",
+      "nombre": "Havanna",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/65%20logo%20Havanna%20bahia%20blanca.webp?updatedAt=1748683078799",
+      "promos": []
+    },
+    {
+      "id": "homo-ludens",
+      "nombre": "Homo Ludens",
+      "rubro": "Entretenimiento",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/47%20logo%20Homo%20Ludens%20bahia%20blanca.webp?updatedAt=1748683073099",
+      "promos": []
+    },
+    {
+      "id": "grisino",
+      "nombre": "Grisino",
+      "rubro": "Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/30%20logo%20Grisino%20bahia%20blanca.webp?updatedAt=1748683068370",
+      "promos": []
+    },
+    {
+      "id": "bahia-automotores-fiat",
+      "nombre": "Bahía Automotores Fiat",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/fiat.webp?updatedAt=1750899801201",
+      "promos": []
+    },
+    {
+      "id": "queen-juana",
+      "nombre": "Queen Juana",
+      "rubro": "Moda Mujer, Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/16%20logo%20Queen%20Juana%20bahia%20blanca.webp?updatedAt=1748683062970",
+      "promos": []
+    },
+    {
+      "id": "el-mundo-del-juguete",
+      "nombre": "El Mundo del Juguete",
+      "rubro": "Juguetería",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/101%20logo%20El%20Mundo%20del%20Juguete%20bahia%20blanca.webp?updatedAt=1748683089319",
+      "promos": []
+    },
+    {
+      "id": "gran-via",
+      "nombre": "Gran Via",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/62%20logo%20Gran%20Via%20bahia%20blanca.webp?updatedAt=1748683076707",
+      "promos": []
+    },
+    {
+      "id": "ferreira-sport",
+      "nombre": "Ferreira Sport",
+      "rubro": "Deporte Outdoor",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/34%20logo%20Ferreira%20Sport%20bahia%20blanca.webp?updatedAt=1748683069449",
+      "promos": []
+    },
+    {
+      "id": "el-desvio",
+      "nombre": "El Desvío",
+      "rubro": "Entretenimiento",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/46%20logo%20El%20Desv%C3%ADo%20bahia%20blanca.webp?updatedAt=1748683072881",
+      "promos": []
+    },
+    {
+      "id": "desiderata",
+      "nombre": "Desiderata",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/04%20desiderata%20%20bahia%20blanca.png?updatedAt=1742899726761",
+      "promos": []
+    },
+    {
+      "id": "doja",
+      "nombre": "DOJA",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/23%20logo%20DOJA%20bahia%20blanca.webp?updatedAt=1748683066124",
+      "promos": []
+    },
+    {
+      "id": "isadora",
+      "nombre": "Isadora",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/05%20logo%20isadora%20bahia%20blanca.png?updatedAt=1742899726739",
+      "promos": []
+    },
+    {
+      "id": "don-telmo",
+      "nombre": "Don Telmo",
+      "rubro": "Belleza",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/72%20logo%20Don%20Telmo%20bahia%20blanca.webp?updatedAt=1748683080053",
+      "promos": []
+    },
+    {
+      "id": "cipriano",
+      "nombre": "Cipriano",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/61%20logo%20Cipriano%20bahia%20blanca.webp?updatedAt=1748683076636",
+      "promos": []
+    },
+    {
+      "id": "carey",
+      "nombre": "Carey",
+      "rubro": "Joyería",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/97%20logo%20Carey%20bahia%20blanca.webp?updatedAt=1748683089401",
+      "promos": []
+    },
+    {
+      "id": "hiper-cooperativa-obrera",
+      "nombre": "Hiper Cooperativa Obrera",
+      "rubro": "Hipermercado",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/hiper.webp?updatedAt=1750899801286",
+      "promos": []
+    },
+    {
+      "id": "cheeky",
+      "nombre": "Cheeky",
+      "rubro": "Niños",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/29%20logo%20Cheeky%20bahia%20blanca.webp?updatedAt=1748683066503",
+      "promos": []
+    },
+    {
+      "id": "ballon-city",
+      "nombre": "Ballon City",
+      "rubro": "Otros",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/89%20logo%20Ballon%20City%20bahia%20blanca.webp?updatedAt=1748683086739",
+      "promos": []
+    },
+    {
+      "id": "break-and-rest",
+      "nombre": "Break and Rest",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/113%20logo%20Break%20and%20Rest%20bahia%20blanca.webp?updatedAt=1748687107754",
+      "promos": []
+    },
+    {
+      "id": "banco-credicoop",
+      "nombre": "Banco Credicoop",
+      "rubro": "Servicios",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/79%20logo%20Banco%20Credicoop%20bahia%20blanca.webp?updatedAt=1748683083487",
+      "promos": []
+    },
+    {
+      "id": "big-six",
+      "nombre": "Big Six",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/60%20logo%20Big%20Six%20bahia%20blanca.webp?updatedAt=1748683076467",
+      "promos": []
+    },
+    {
+      "id": "betos",
+      "nombre": "Betos",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/59%20logo%20Betos%20bahia%20blanca.webp?updatedAt=1748683076542",
+      "promos": []
+    },
+    {
+      "id": "arias-hermanos-volkswagen",
+      "nombre": "Arias Hermanos Volkswagen",
+      "rubro": "Automotores",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/arias.webp?updatedAt=1750899801475",
+      "promos": []
+    },
+    {
+      "id": "aberdeen-angus",
+      "nombre": "Aberdeen Angus",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/57%20logo%20Aberdeen%20Angus%20bahia%20blanca.webp?updatedAt=1748683076497",
+      "promos": []
+    },
+    {
+      "id": "ave-caesar",
+      "nombre": "Ave Caesar",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/58%20logo%20Ave%20Caesar%20bahia%20blanca.webp?updatedAt=1748683076415",
+      "promos": []
+    },
+    {
+      "id": "47-street",
+      "nombre": "47 Street",
+      "rubro": "Moda Mujer",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/01%20logo%2047%20street%20bahia%20blanca.png?updatedAt=1742899726762",
+      "promos": []
+    },
+    {
+      "id": "al-alba",
+      "nombre": "Al Alba",
+      "rubro": "Moda Hombre",
+      "logo": "",
+      "logoUrl": "https://ik.imagekit.io/bbps/logos/24%20logo%20Al%20Alba%20bahia%20blanca.webp?updatedAt=1748683066115",
+      "promos": []
+    },
+    {
+      "id": "brutto-pastificio",
+      "nombre": "Brutto Pastificio",
+      "rubro": "Gastronomía",
+      "logo": "",
+      "logoUrl": "https://i.imgur.com/QiVigkT.png",
+      "promos": []
+    }
+  ]
+}

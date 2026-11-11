@@ -1,0 +1,12 @@
+{
+  "name": "directorio-bbps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Directorio de locales y promociones del Bahía Blanca Plaza Shopping",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

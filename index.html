@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Locales y promociones · Bahía Blanca Plaza Shopping</title>
+  <meta name="description" content="Directorio de locales y promociones del Bahía Blanca Plaza Shopping.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a href="#grilla" class="skip">Ir a los locales</a>
+
+  <div class="wrap">
+    <header class="hdr" id="hdr">
+      <div class="pill hdr-pill">
+        <img src="img/logo-bbps.png" alt="Bahía Blanca Plaza Shopping" class="hdr-logo">
+      </div>
+    </header>
+
+    <section class="banner" id="banner" hidden aria-label="Promoción destacada">
+      <picture>
+        <source id="bannerMobile" media="(max-width: 700px)">
+        <img id="bannerImg" alt="Promoción destacada del shopping">
+      </picture>
+      <span class="banner-shine" aria-hidden="true"></span>
+    </section>
+
+    <div class="toolbar" id="toolbar">
+      <div class="toolbar-inner">
+        <label class="pill search">
+          <span class="sr">Buscar un local</span>
+          <input type="search" id="q" placeholder="BUSCÁ UN LOCAL..............." autocomplete="off" enterkeyhint="search">
+          <svg class="search-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="14" cy="9.5" r="6.5"/><path d="M9.6 14.4 4 21.5"/></svg>
+        </label>
+
+        <div class="filter">
+          <button class="pill filter-btn" id="filterBtn" aria-haspopup="true" aria-expanded="false">
+            <span id="filterLabel">FILTRAR</span>
+          </button>
+          <div class="filter-pop" id="filterPop" role="menu" hidden></div>
+        </div>
+
+        <button class="pill sort-btn" id="sortBtn" aria-label="Ordenar de la Z a la A" title="Orden A → Z">
+          <svg viewBox="0 0 40 32" aria-hidden="true">
+            <g class="arr-up"><path d="M11 29V4"/><path d="M3 12l8-8 8 8"/></g>
+            <g class="arr-down"><path d="M29 3v25"/><path d="M21 20l8 8 8-8"/></g>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <main>
+      <p class="status" id="status" aria-live="polite"></p>
+      <ul class="grid" id="grilla" aria-label="Locales"></ul>
+      <div class="empty" id="empty" hidden>
+        <p class="empty-t">No encontramos locales</p>
+        <p class="empty-s">Probá con otro nombre o quitá el filtro.</p>
+        <button class="link-btn" id="clearBtn">Limpiar búsqueda</button>
+      </div>
+    </main>
+
+    <footer class="foot">
+      <button class="btn-top" id="topBtn">VOLVER ARRIBA</button>
+      <form class="admin-access" id="adminForm" autocomplete="off">
+        <label for="pin">ADMINISTRADOR</label>
+        <input id="pin" type="password" inputmode="numeric" placeholder="PIN" aria-label="PIN de administrador">
+        <button type="submit">ENTRAR</button>
+      </form>
+      <p class="admin-msg" id="adminMsg" aria-live="polite"></p>
+    </footer>
+  </div>
+
+  <!-- Ventana emergente de promociones -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+      <button class="modal-x" data-close aria-label="Cerrar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>
+      </button>
+      <div class="modal-head">
+        <div class="modal-logo" id="mLogo"></div>
+        <div>
+          <h2 id="mTitle"></h2>
+          <p class="modal-rubro" id="mRubro"></p>
+        </div>
+      </div>
+      <div class="modal-body">
+        <ul class="promos" id="mPromos"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
