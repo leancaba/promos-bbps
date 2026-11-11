@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:26:59.763Z",
+  "updatedAt": "2026-11-11T04:27:06.979Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -369,120 +369,120 @@
       "id": "rouge",
       "nombre": "Rouge",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/76%20logo%20Rouge%20bahia%20blanca.webp?updatedAt=1748683083174",
+      "logo": "uploads/logos/rouge-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "mega-lab",
       "nombre": "Mega Lab",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/81%20logo%20Mega%20Lab%20bahia%20blanca.webp?updatedAt=1748683083558",
+      "logo": "uploads/logos/mega-lab-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "skinhouse-lidherma",
       "nombre": "Skinhouse Lidherma",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/77%20logo%20Skinhouse%20Lidherma%20bahia%20blanca.webp?updatedAt=1748683083239",
+      "logo": "uploads/logos/skinhouse-lidherma-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "terra-pizzas",
       "nombre": "Terra Pizzas",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/68%20logo%20Terra%20Pizzas%20bahia%20blanca.webp?updatedAt=1748683080001",
+      "logo": "uploads/logos/terra-pizzas-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "the-skin-store",
       "nombre": "The Skin Store",
       "rubro": "Tecnología",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/108%20logo%20The%20Skin%20Store%20bahia%20blanca.webp?updatedAt=1748685229471",
+      "logo": "uploads/logos/the-skin-store-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "selu",
       "nombre": "Selú",
       "rubro": "Moda Mujer, Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/18%20logo%20Sel%C3%BA%20bahia%20blanca.webp?updatedAt=1748683062861",
+      "logo": "uploads/logos/selu-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "septimo",
       "nombre": "Séptimo",
       "rubro": "Deporte Outdoor",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/35%20logo%20S%C3%A9ptimo%20bahia%20blanca.webp?updatedAt=1748683070016",
+      "logo": "uploads/logos/septimo-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "sacoa",
       "nombre": "Sacoa",
       "rubro": "Entretenimiento",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/49%20logo%20Sacoa%20bahia%20blanca.webp?updatedAt=1748683073140",
+      "logo": "uploads/logos/sacoa-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "samsung-store",
       "nombre": "Samsung Store",
       "rubro": "Tecnología",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/44%20logo%20Samsung%20Store%20bahia%20blanca.webp?updatedAt=1748683072134",
+      "logo": "uploads/logos/samsung-store-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "sapem",
       "nombre": "Sapem",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/85%20logo%20Sapem%20bahia%20blanca.webp?updatedAt=1748683084933",
+      "logo": "uploads/logos/sapem-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "royal-prestige",
       "nombre": "Royal Prestige",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/55%20logo%20Royal%20Prestige%20bahia%20blanca.webp?updatedAt=1748683075556",
+      "logo": "uploads/logos/royal-prestige-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "risk-point-outdoor",
       "nombre": "Risk Point Outdoor",
       "rubro": "Deporte Outdoor",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/33%20logo%20Risk%20Point%20Outdoor%20bahia%20blanca.webp?updatedAt=1748683068648",
+      "logo": "uploads/logos/risk-point-outdoor-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "raffael-bertin",
       "nombre": "Raffael Bertin",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/74%20logo%20Raffael%20Bertin%20bahia%20blanca.webp?updatedAt=1748683080160",
+      "logo": "uploads/logos/raffael-bertin-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "melocoton",
       "nombre": "Melocotón",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/13%20logo%20Melocot%C3%B3n%20bahia%20blanca.webp?updatedAt=1748683062947",
+      "logo": "uploads/logos/melocoton-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "ramira",
       "nombre": "Ramira",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/17%20logo%20Ramira%20bahia%20blanca.webp?updatedAt=1748683062946",
+      "logo": "uploads/logos/ramira-mwbmartv.png",
+      "logoUrl": "",
       "promos": []
     },
     {
