@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:00:00.000Z",
+  "updatedAt": "2026-11-11T04:26:44.636Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -9,120 +9,120 @@
       "id": "eva-miller",
       "nombre": "Eva Miller",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/5deLoxE.png",
+      "logo": "uploads/logos/eva-miller-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "jumbalay",
       "nombre": "Jumbalay",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/vVzQoT5.png",
+      "logo": "uploads/logos/jumbalay-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "cover-by-soul",
       "nombre": "Cover by Soul",
       "rubro": "Tecnología",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/Jdpd9cH.png",
+      "logo": "uploads/logos/cover-by-soul-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "infinit",
       "nombre": "Infinit",
       "rubro": "Otros",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/RJY33mx.png",
+      "logo": "uploads/logos/infinit-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "loot-comic-local",
       "nombre": "Loot Comic - Local",
       "rubro": "Otros",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/ecvaRQm.png",
+      "logo": "uploads/logos/loot-comic-local-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "ay-que-lindo",
       "nombre": "Ay que lindo!",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/QANnAyQ.png",
+      "logo": "uploads/logos/ay-que-lindo-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "mundo-outdoor",
       "nombre": "Mundo Outdoor",
       "rubro": "Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/XSG94x4.png",
+      "logo": "uploads/logos/mundo-outdoor-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "city-girl",
       "nombre": "City Girl",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/Ks5qMeo.png",
+      "logo": "uploads/logos/city-girl-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "punto-apple-bahia",
       "nombre": "Punto Apple Bahia",
       "rubro": "Tecnología",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logo.png?updatedAt=1756223367021",
+      "logo": "uploads/logos/punto-apple-bahia-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "loot-comic",
       "nombre": "Loot Comic",
       "rubro": "Otros",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/loot.png?updatedAt=1755869945810",
+      "logo": "uploads/logos/loot-comic-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "arturito",
       "nombre": "Arturito",
       "rubro": "Niños",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/logo%20arturito.png?updatedAt=1752578641021",
+      "logo": "uploads/logos/arturito-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "corcel-citroen",
       "nombre": "Corcel Citroën",
       "rubro": "Automotores",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/citroen.webp?updatedAt=1750899801447",
+      "logo": "uploads/logos/corcel-citroen-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "pato-pampa",
       "nombre": "Pato Pampa",
       "rubro": "Moda Mujer, Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/27%20logo%20Pato%20Pampa%20bahia%20blanca.webp?updatedAt=1748683066357",
+      "logo": "uploads/logos/pato-pampa-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "cardon",
       "nombre": "Cardon",
       "rubro": "Moda Mujer, Moda Hombre, Zapaterías y Marroquinerías",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/02%20logo%20cardon%20bahia%20blanca.png?updatedAt=1742899726660",
+      "logo": "uploads/logos/cardon-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "sestina",
       "nombre": "Sestina",
       "rubro": "Zapaterías y Marroquinerías",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/40%20logo%20Sestina%20bahia%20blanca.webp?updatedAt=1748683070794",
+      "logo": "uploads/logos/sestina-mwbmaal8.png",
+      "logoUrl": "",
       "promos": []
     },
     {
