@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:27:15.433Z",
+  "updatedAt": "2026-11-11T04:27:22.456Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -609,120 +609,120 @@
       "id": "mcdonald-s-stand-de-postres",
       "nombre": "McDonald's Stand de Postres",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/66%20logo%20McDonalds%20bahia%20blanca.webp?updatedAt=1748683079853",
+      "logo": "uploads/logos/mcdonald-s-stand-de-postres-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "maschio-vestire",
       "nombre": "Maschio Vestire",
       "rubro": "Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/26%20logo%20Maschio%20Vestire%20bahia%20blanca.webp?updatedAt=1748683066293",
+      "logo": "uploads/logos/maschio-vestire-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "markova",
       "nombre": "Markova",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/12%20logo%20Markova%20bahia%20blanca.webp?updatedAt=1748683062846",
+      "logo": "uploads/logos/markova-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "lovely-denim",
       "nombre": "Lovely Denim",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/11%20logo%20Lovely%20Denim%20bahia%20blanca.webp?updatedAt=1748683062931",
+      "logo": "uploads/logos/lovely-denim-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "lemon-pie",
       "nombre": "Lemon Pie",
       "rubro": "Zapaterías y Marroquinerías",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/38%20logo%20Lemon%20Pie%20bahia%20blanca.webp?updatedAt=1748683070125",
+      "logo": "uploads/logos/lemon-pie-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "lacoste",
       "nombre": "Lacoste",
       "rubro": "Moda Mujer, Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/08%20logo%20lacoste%20bahia%20blanca.png?updatedAt=1742899726919",
+      "logo": "uploads/logos/lacoste-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "mostaza",
       "nombre": "Mostaza",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/67%20logo%20Mostaza%20bahia%20blanca.webp?updatedAt=1748683079849",
+      "logo": "uploads/logos/mostaza-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "legacy",
       "nombre": "Legacy",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/09%20logo%20legacy%20bahia%20blanca.png?updatedAt=1742899726875",
+      "logo": "uploads/logos/legacy-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "kosiuko-herencia",
       "nombre": "Kosiuko / Herencia",
       "rubro": "Moda Mujer, Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/07%20logo%20kosiuko%20bahia%20blanca.png?updatedAt=1742899726731",
+      "logo": "uploads/logos/kosiuko-herencia-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "lago-chevrolet",
       "nombre": "Lago Chevrolet",
       "rubro": "Automotores",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/chevrolet.webp?updatedAt=1750899801361",
+      "logo": "uploads/logos/lago-chevrolet-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "automac",
       "nombre": "AutoMac",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/71%20logo%20AutoMac%20bahia%20blanca.webp?updatedAt=1748683080059",
+      "logo": "uploads/logos/automac-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "havanna",
       "nombre": "Havanna",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/65%20logo%20Havanna%20bahia%20blanca.webp?updatedAt=1748683078799",
+      "logo": "uploads/logos/havanna-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "homo-ludens",
       "nombre": "Homo Ludens",
       "rubro": "Entretenimiento",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/47%20logo%20Homo%20Ludens%20bahia%20blanca.webp?updatedAt=1748683073099",
+      "logo": "uploads/logos/homo-ludens-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "grisino",
       "nombre": "Grisino",
       "rubro": "Niños",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/30%20logo%20Grisino%20bahia%20blanca.webp?updatedAt=1748683068370",
+      "logo": "uploads/logos/grisino-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "bahia-automotores-fiat",
       "nombre": "Bahía Automotores Fiat",
       "rubro": "Automotores",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/fiat.webp?updatedAt=1750899801201",
+      "logo": "uploads/logos/bahia-automotores-fiat-mwbmb3rs.png",
+      "logoUrl": "",
       "promos": []
     },
     {
