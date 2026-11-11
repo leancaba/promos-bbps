@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:27:30.434Z",
+  "updatedAt": "2026-11-11T04:27:38.499Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -849,72 +849,72 @@
       "id": "banco-credicoop",
       "nombre": "Banco Credicoop",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/79%20logo%20Banco%20Credicoop%20bahia%20blanca.webp?updatedAt=1748683083487",
+      "logo": "uploads/logos/banco-credicoop-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "big-six",
       "nombre": "Big Six",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/60%20logo%20Big%20Six%20bahia%20blanca.webp?updatedAt=1748683076467",
+      "logo": "uploads/logos/big-six-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "betos",
       "nombre": "Betos",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/59%20logo%20Betos%20bahia%20blanca.webp?updatedAt=1748683076542",
+      "logo": "uploads/logos/betos-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "arias-hermanos-volkswagen",
       "nombre": "Arias Hermanos Volkswagen",
       "rubro": "Automotores",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/arias.webp?updatedAt=1750899801475",
+      "logo": "uploads/logos/arias-hermanos-volkswagen-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "aberdeen-angus",
       "nombre": "Aberdeen Angus",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/57%20logo%20Aberdeen%20Angus%20bahia%20blanca.webp?updatedAt=1748683076497",
+      "logo": "uploads/logos/aberdeen-angus-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "ave-caesar",
       "nombre": "Ave Caesar",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/58%20logo%20Ave%20Caesar%20bahia%20blanca.webp?updatedAt=1748683076415",
+      "logo": "uploads/logos/ave-caesar-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "47-street",
       "nombre": "47 Street",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/01%20logo%2047%20street%20bahia%20blanca.png?updatedAt=1742899726762",
+      "logo": "uploads/logos/47-street-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "al-alba",
       "nombre": "Al Alba",
       "rubro": "Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/24%20logo%20Al%20Alba%20bahia%20blanca.webp?updatedAt=1748683066115",
+      "logo": "uploads/logos/al-alba-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "brutto-pastificio",
       "nombre": "Brutto Pastificio",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/QiVigkT.png",
+      "logo": "uploads/logos/brutto-pastificio-mwbmbg5f.png",
+      "logoUrl": "",
       "promos": []
     }
   ]
