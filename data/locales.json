@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:46:57.164Z",
+  "updatedAt": "2026-11-11T04:51:59.242Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -219,7 +219,24 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/madison-brew-station-mwbmagwu.png",
       "logoUrl": "",
-      "promos": []
+      "promos": [
+        {
+          "titulo": "20% OFF Porción de torta",
+          "descripcion": ""
+        },
+        {
+          "titulo": "25% OFF Sandwich Ibérico",
+          "descripcion": "bondiola desmenuzada, barbacoa, muzzarella, rúcula, batata crispy) + Papas fritas + Bebida"
+        },
+        {
+          "titulo": "⁠15% OFF cervezas tiradas",
+          "descripcion": ""
+        },
+        {
+          "titulo": "⁠15% OFF Cocktails",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "grimoldi",
