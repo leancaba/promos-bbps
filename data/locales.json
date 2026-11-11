@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:26:44.636Z",
+  "updatedAt": "2026-11-11T04:26:52.830Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -129,120 +129,120 @@
       "id": "raffael-bertin-beauty",
       "nombre": "Raffael Bertin Beauty",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/75%20logo%20Raffael%20Bertin%20Beauty%20bahia%20blanca.webp?updatedAt=1748683082067",
+      "logo": "uploads/logos/raffael-bertin-beauty-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "charlies-candy",
       "nombre": "Charlies Candy",
       "rubro": "Otros",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/90%20logo%20Charlys%20Candy%20bahia%20blanca.webp?updatedAt=1748683086970",
+      "logo": "uploads/logos/charlies-candy-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "made-deco",
       "nombre": "Made Deco",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/9FRdVEB.png",
+      "logo": "uploads/logos/made-deco-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "montagne",
       "nombre": "Montagne",
       "rubro": "Deporte Outdoor",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/36%20logo%20Montagne%20bahia%20blanca.webp?updatedAt=1748683070162",
+      "logo": "uploads/logos/montagne-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "kevingston",
       "nombre": "Kevingston",
       "rubro": "Moda Mujer, Moda Hombre, Niños",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/109%20logo%20Kevingstone%20bahia%20blanca.webp?updatedAt=1748685229309",
+      "logo": "uploads/logos/kevingston-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "santa-bohemia",
       "nombre": "Santa Bohemia",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://i.imgur.com/iNVWVna.png",
+      "logo": "uploads/logos/santa-bohemia-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "corcel-peugeot",
       "nombre": "Corcel Peugeot",
       "rubro": "Automotores",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/peugeot.webp?updatedAt=1750899801505",
+      "logo": "uploads/logos/corcel-peugeot-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "tarjeta-bbps",
       "nombre": "Tarjeta BBPS",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/87%20logo%20Tarjeta%20BBPS%20bahia%20blanca.webp?updatedAt=1748683086110",
+      "logo": "uploads/logos/tarjeta-bbps-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "eco-doc",
       "nombre": "Eco Doc",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/80%20logo%20Eco%20Doc%20bahia%20blanca.webp?updatedAt=1748683083387",
+      "logo": "uploads/logos/eco-doc-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "esencia-de-los-artesanos",
       "nombre": "Esencia de los Artesanos",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/51%20logo%20Esencia%20de%20los%20Artesanos%20bahia%20blanca.webp?updatedAt=1748683074068",
+      "logo": "uploads/logos/esencia-de-los-artesanos-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "todomoda",
       "nombre": "Todomoda",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/19%20logo%20Todomoda%20bahia%20blanca.webp?updatedAt=1748683062991",
+      "logo": "uploads/logos/todomoda-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "madison-brew-station",
       "nombre": "Madison Brew Station",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/111%20logo%20Madison%20Brew%20Station%20bahia%20blanca.webp?updatedAt=1748687108049",
+      "logo": "uploads/logos/madison-brew-station-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "grimoldi",
       "nombre": "Grimoldi",
       "rubro": "Zapaterías y Marroquinerías",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/37%20logo%20Grimoldi%20bahia%20blanca.webp?updatedAt=1748683070196",
+      "logo": "uploads/logos/grimoldi-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "portsaid",
       "nombre": "Portsaid",
       "rubro": "Moda Mujer",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/15%20logo%20Portsaid%20bahia%20blanca.webp?updatedAt=1748683062908",
+      "logo": "uploads/logos/portsaid-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "sayhueque",
       "nombre": "Sayhueque",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/56%20logo%20Sayhueque%20bahia%20blanca.webp?updatedAt=1748683076518",
+      "logo": "uploads/logos/sayhueque-mwbmagwu.png",
+      "logoUrl": "",
       "promos": []
     },
     {
