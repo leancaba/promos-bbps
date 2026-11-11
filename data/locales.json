@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:27:06.979Z",
+  "updatedAt": "2026-11-11T04:27:15.433Z",
   "banner": {
     "desktop": "",
     "mobile": ""
@@ -489,112 +489,112 @@
       "id": "rapipago",
       "nombre": "Rapipago",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/83%20logo%20Rapipago%20bahia%20blanca.webp?updatedAt=1748683083506",
+      "logo": "uploads/logos/rapipago-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "the-coffee-store",
       "nombre": "The Coffee Store",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/69%20logo%20The%20Coffee%20Store%20bahia%20blanca.webp?updatedAt=1748683079873",
+      "logo": "uploads/logos/the-coffee-store-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "ramira-chulas",
       "nombre": "Ramira Chulas",
       "rubro": "Niños",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/32%20logo%20Ramira%20Chulas%20bahia%20blanca.webp?updatedAt=1748683068351",
+      "logo": "uploads/logos/ramira-chulas-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "pampero",
       "nombre": "Pampero",
       "rubro": "Moda Mujer, Moda Hombre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/14%20logo%20Pampero%20bahia%20blanca.webp?updatedAt=1748683062853",
+      "logo": "uploads/logos/pampero-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "shopping-futbol-club",
       "nombre": "Shopping Fútbol Club",
       "rubro": "Deporte Tiempo Libre",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/96%20logo%20Shopping%20F%C3%BAtbol%20Club%20bahia%20blanca.webp?updatedAt=1748683089048",
+      "logo": "uploads/logos/shopping-futbol-club-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "petit-rainbow",
       "nombre": "Petit Rainbow",
       "rubro": "Hogar y Deco",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/110%20logo%20Petit%20Rainbow%20bahia%20blanca.webp?updatedAt=1748685229368",
+      "logo": "uploads/logos/petit-rainbow-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "pronto-wash",
       "nombre": "Pronto Wash",
       "rubro": "Servicios",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/82%20logo%20Pronto%20Wash%20bahia%20blanca.webp?updatedAt=1748683083604",
+      "logo": "uploads/logos/pronto-wash-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "parfumerie",
       "nombre": "Parfumerie",
       "rubro": "Belleza",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/73%20logo%20Parfumerie%20bahia%20blanca.webp?updatedAt=1748683079959",
+      "logo": "uploads/logos/parfumerie-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "mas-que-plata",
       "nombre": "Más que Plata",
       "rubro": "Joyería",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/99%20logo%20M%C3%A1s%20que%20Plata%20bahia%20blanca.webp?updatedAt=1748683089633",
+      "logo": "uploads/logos/mas-que-plata-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "optica-ventura",
       "nombre": "Óptica Ventura",
       "rubro": "Otros",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/93%20logo%20%C3%93ptica%20Ventura%20bahia%20blanca.webp?updatedAt=1748683086980",
+      "logo": "uploads/logos/optica-ventura-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "joyeria-santarelli",
       "nombre": "Joyería Santarelli",
       "rubro": "Joyería",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/98%20logo%20Joyer%C3%ADa%20Santarelli%20bahia%20blanca.webp?updatedAt=1748683089289",
+      "logo": "uploads/logos/joyeria-santarelli-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "modde-gaming",
       "nombre": "Modde Gaming",
       "rubro": "Entretenimiento",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/48%20logo%20Modde%20Gaming%20bahia%20blanca.webp?updatedAt=1748683073701",
+      "logo": "uploads/logos/modde-gaming-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "mcdonald-s",
       "nombre": "McDonald's",
       "rubro": "Gastronomía",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/66%20logo%20McDonalds%20bahia%20blanca.webp?updatedAt=1748683079853",
+      "logo": "uploads/logos/mcdonald-s-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
       "id": "cinemacenter",
       "nombre": "Cinemacenter",
       "rubro": "Entretenimiento",
-      "logo": "",
-      "logoUrl": "https://ik.imagekit.io/bbps/logos/45%20logo%20Cinemacenter%20bahia%20blanca.webp?updatedAt=1748683072963",
+      "logo": "uploads/logos/cinemacenter-mwbmaycp.png",
+      "logoUrl": "",
       "promos": []
     },
     {
