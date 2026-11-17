@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:38:52.628Z",
+  "updatedAt": "2026-11-17T14:39:19.621Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -562,7 +562,12 @@
       "logo": "uploads/logos/septimo-mwbmartv.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "TARJETA BBPS",
+          "descripcion": "15% de reintegro + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "sacoa",
