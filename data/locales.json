@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:58:37.476Z",
+  "updatedAt": "2026-11-17T13:58:41.386Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -1027,7 +1027,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/47-street-mwbmbg5f.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
