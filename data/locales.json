@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:25:01.345Z",
+  "updatedAt": "2026-11-17T16:26:01.982Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -268,7 +268,12 @@
       "logo": "uploads/logos/esencia-de-los-artesanos-mwbmagwu.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "PROMO DE PERFUMINAS",
+          "descripcion": "1 INNATA + 1 PAROLA + 1 DELEITE X $55.000"
+        }
+      ]
     },
     {
       "id": "todomoda",
