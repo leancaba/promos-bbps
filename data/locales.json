@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:23:35.827Z",
+  "updatedAt": "2026-11-17T15:46:41.757Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -1156,7 +1156,12 @@
       "logo": "uploads/logos/tijeritas-mwkubdvvc5h.webp",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "RUEDA DE LA FORTUNA CON TU CORTE",
+          "descripcion": "DESCUENTOS, REGALOS Y MÁS!"
+        }
+      ]
     }
   ]
 }
