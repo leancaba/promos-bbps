@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:33:41.913Z",
+  "updatedAt": "2026-11-17T21:34:08.842Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwkx3vl0cbf.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -319,6 +319,10 @@
         },
         {
           "titulo": "2x1 cervezas tiradas de 19 a 22 hs",
+          "descripcion": ""
+        },
+        {
+          "titulo": "20% Alfajores",
           "descripcion": ""
         }
       ]
