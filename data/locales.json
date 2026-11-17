@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:14:45.108Z",
+  "updatedAt": "2026-11-17T14:16:09.765Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -804,6 +804,10 @@
         {
           "titulo": "TARJETA BBPS",
           "descripcion": "25% de reintegro + 3 cuotas sin interés"
+        },
+        {
+          "titulo": "2 SORTEOS!",
+          "descripcion": "CON TUS COMPRAS EN EL LOCAL, A LAS 15HS Y A LAS 20HS"
         }
       ]
     },
