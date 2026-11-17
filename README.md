@@ -47,7 +47,11 @@ Creá un repositorio nuevo (por ejemplo `directorio-bbps`) y subí todos los arc
 - Al pie de la web: **ADMINISTRADOR → PIN → ENTRAR**, o directamente `tu-web.vercel.app/admin`.
 - **Gráficas promocionales**: *Cargar imagen* → revisá la vista previa → *Guardar*. También podés quitar una gráfica.
 - **Locales y promociones**: nombre, rubro (se usa para los filtros), logo y todas las promos que quieras (*Agregar promo*). *Guardar* crea el local.
-- En la lista de abajo: **Editar** carga el local en el formulario; **Borrar** lo elimina junto con su logo.
+- En la lista de abajo:
+  - **Deshabilitar / Habilitar** (interruptor): oculta o vuelve a mostrar el local en el directorio sin borrar nada; conserva logo, rubro y promos.
+  - **Editar** carga el local en el formulario.
+  - **Borrar** lo elimina definitivamente junto con su logo.
+  - Arriba de la lista podés ver **Todos**, solo los **Habilitados** o solo los **Deshabilitados**.
 
 ### 5. Descargar los logos (una sola vez)
 El repositorio viene precargado con los **114 locales** de bahiablancaplazashopping.com/locales, con su nombre y rubro. Al principio los logos se muestran desde la web del shopping. Para que queden guardados en el repositorio:

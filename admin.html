@@ -93,6 +93,11 @@
 
         <div class="list-tools">
           <input class="a-input small" id="listQ" type="search" placeholder="BUSCAR EN LA LISTA..." aria-label="Buscar en la lista de locales">
+          <div class="views" role="group" aria-label="Mostrar en la lista">
+            <button type="button" class="view-btn" data-view="todos">TODOS</button>
+            <button type="button" class="view-btn" data-view="visibles">HABILITADOS</button>
+            <button type="button" class="view-btn" data-view="ocultos">DESHABILITADOS</button>
+          </div>
           <span class="count" id="count"></span>
         </div>
         <ul class="loc-list" id="locList"></ul>
