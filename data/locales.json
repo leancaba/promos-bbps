@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:16:45.513Z",
+  "updatedAt": "2026-11-17T15:17:15.967Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -619,7 +619,12 @@
       "logo": "uploads/logos/raffael-bertin-mwbmartv.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "15%off en cualquier servicio",
+          "descripcion": "Sólo en efectivo"
+        }
+      ]
     },
     {
       "id": "melocoton",
