@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:59:40.941Z",
+  "updatedAt": "2026-11-17T13:59:46.742Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -39,15 +39,6 @@
       "logo": "uploads/logos/infinit-mwbmaal8.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "loot-comic-local",
-      "nombre": "Loot Comic - Local",
-      "rubro": "Otros",
-      "logo": "uploads/logos/loot-comic-local-mwbmaal8.png",
-      "logoUrl": "",
-      "oculto": true,
       "promos": []
     },
     {
