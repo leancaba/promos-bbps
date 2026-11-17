@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:30:40.949Z",
+  "updatedAt": "2026-11-17T14:30:53.751Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -876,7 +876,12 @@
       "logo": "uploads/logos/ferreira-sport-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "TARJETA BBPS",
+          "descripcion": "15% de reintegro + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "doja",
