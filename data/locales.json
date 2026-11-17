@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:44:04.382Z",
+  "updatedAt": "2026-11-17T14:44:09.706Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -654,7 +654,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/the-coffee-store-mwbmaycp.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
