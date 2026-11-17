@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:09:38.104Z",
+  "updatedAt": "2026-11-17T14:09:43.859Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -853,15 +853,6 @@
       "logo": "uploads/logos/ballon-city-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": true,
-      "promos": []
-    },
-    {
-      "id": "banco-credicoop",
-      "nombre": "Banco Credicoop",
-      "rubro": "Servicios",
-      "logo": "uploads/logos/banco-credicoop-mwbmbg5f.png",
-      "logoUrl": "",
-      "oculto": false,
       "promos": []
     },
     {
