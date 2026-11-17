@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:42:26.766Z",
+  "updatedAt": "2026-11-17T14:42:34.415Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -789,15 +789,6 @@
           "descripcion": "25% de reintegro + 3 cuotas sin interés"
         }
       ]
-    },
-    {
-      "id": "maschio-vestire",
-      "nombre": "Maschio Vestire",
-      "rubro": "Moda Hombre",
-      "logo": "uploads/logos/maschio-vestire-mwbmb3rs.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
     },
     {
       "id": "markova",
