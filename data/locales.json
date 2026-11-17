@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:14:30.349Z",
+  "updatedAt": "2026-11-17T14:14:45.108Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -800,7 +800,12 @@
       "logo": "uploads/logos/doja-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "TARJETA BBPS",
+          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "isadora",
