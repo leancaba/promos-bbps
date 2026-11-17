@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:59:55.047Z",
+  "updatedAt": "2026-11-17T14:00:05.985Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -190,15 +190,6 @@
       "nombre": "Corcel Peugeot",
       "rubro": "Automotores",
       "logo": "uploads/logos/corcel-peugeot-mwbmagwu.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "eco-doc",
-      "nombre": "Eco Doc",
-      "rubro": "Servicios",
-      "logo": "uploads/logos/eco-doc-mwbmagwu.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
