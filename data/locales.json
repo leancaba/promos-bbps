@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:41:57.760Z",
+  "updatedAt": "2026-11-17T14:42:06.659Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -828,7 +828,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/lemon-pie-mwbmb3rs.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
