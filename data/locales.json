@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:05:56.953Z",
+  "updatedAt": "2026-11-17T14:06:09.814Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -883,7 +883,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/aberdeen-angus-mwbmbg5f.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
