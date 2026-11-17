@@ -57,6 +57,7 @@ function sanitize(data) {
       rubro: String(l.rubro || '').split(',').map((r) => cleanStr(r, 40)).filter(Boolean).slice(0, 5).join(', '),
       logo: l.logo && l.logo.startsWith('uploads/') ? okPath(l.logo) : '',
       logoUrl: l.logo ? '' : okLogoUrl(l.logoUrl),
+      oculto: l.oculto === true,
       promos: (Array.isArray(l.promos) ? l.promos : [])
         .map((p) => ({ titulo: cleanStr(p.titulo, 120), descripcion: cleanStr(p.descripcion, 600) }))
         .filter((p) => p.titulo || p.descripcion)
