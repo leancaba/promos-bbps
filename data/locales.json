@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:11:12.362Z",
+  "updatedAt": "2026-11-17T14:11:28.375Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -326,7 +326,12 @@
       "logo": "uploads/logos/casabianca-mwbmam9f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "tarjeta bbps",
+          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "aaron-pet-shop",
