@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:37:24.513Z",
+  "updatedAt": "2026-11-17T14:37:48.702Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -242,7 +242,12 @@
       "logo": "uploads/logos/santa-bohemia-mwbmagwu.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "TARJETA BBPS",
+          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "esencia-de-los-artesanos",
