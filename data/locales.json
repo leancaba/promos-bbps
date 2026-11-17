@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:43:46.125Z",
+  "updatedAt": "2026-11-17T14:43:50.182Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -576,7 +576,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/sacoa-mwbmartv.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
