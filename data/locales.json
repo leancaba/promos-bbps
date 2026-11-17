@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:44:23.505Z",
+  "updatedAt": "2026-11-17T14:44:27.530Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -162,7 +162,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/sestina-mwbmaal8.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
