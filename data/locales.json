@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:41:43.778Z",
+  "updatedAt": "2026-11-17T20:05:05.968Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwkx3vl0cbf.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -161,7 +161,7 @@
       "rubro": "Moda Mujer, Moda Hombre, Zapaterías y Marroquinerías",
       "logo": "uploads/logos/cardon-mwbmaal8.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
