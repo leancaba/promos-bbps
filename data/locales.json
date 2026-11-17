@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:34:08.842Z",
+  "updatedAt": "2026-11-17T21:48:51.299Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwkx3vl0cbf.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -763,7 +763,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/petit-rainbow-mwbmaycp.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
