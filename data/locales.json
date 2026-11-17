@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:02:08.634Z",
+  "updatedAt": "2026-11-17T14:05:56.953Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -93,7 +93,16 @@
       "logo": "uploads/logos/arturito-mwbmaal8.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "PERCHERITO FELIZ",
+          "descripcion": "2 PRENDAS X $30.000\n(Bodies de 3 a 24 meses. \nRemeras de 1 a 10 años.)"
+        },
+        {
+          "titulo": "JUEGO DE SÁBANAS Moisés/Catre",
+          "descripcion": "Algodón peinado - Estampa propia X $50.000"
+        }
+      ]
     },
     {
       "id": "pato-pampa",
