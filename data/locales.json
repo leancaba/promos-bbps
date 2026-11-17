@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:01:53.667Z",
+  "updatedAt": "2026-11-17T14:02:01.467Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -531,15 +531,6 @@
       "nombre": "Pampero",
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/pampero-mwbmaycp.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "shopping-futbol-club",
-      "nombre": "Shopping Fútbol Club",
-      "rubro": "Deporte Tiempo Libre",
-      "logo": "uploads/logos/shopping-futbol-club-mwbmaycp.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
