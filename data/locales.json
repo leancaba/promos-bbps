@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:05:05.968Z",
+  "updatedAt": "2026-11-17T20:06:34.762Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwkx3vl0cbf.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -162,7 +162,12 @@
       "logo": "uploads/logos/cardon-mwbmaal8.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "tarjeta bbps",
+          "descripcion": "25% off + 3 cuotas sin interés"
+        }
+      ]
     },
     {
       "id": "sestina",
