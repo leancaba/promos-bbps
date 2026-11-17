@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:42:52.735Z",
+  "updatedAt": "2026-11-17T14:43:00.610Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -677,7 +677,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/pampero-mwbmaycp.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
