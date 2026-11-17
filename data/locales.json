@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:58:41.386Z",
+  "updatedAt": "2026-11-17T13:58:53.819Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -513,15 +513,6 @@
       "nombre": "Sapem",
       "rubro": "Servicios",
       "logo": "uploads/logos/sapem-mwbmartv.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "royal-prestige",
-      "nombre": "Royal Prestige",
-      "rubro": "Hogar y Deco",
-      "logo": "uploads/logos/royal-prestige-mwbmartv.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
