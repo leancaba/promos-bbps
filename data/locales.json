@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:10:36.904Z",
+  "updatedAt": "2026-11-17T15:10:42.858Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -299,7 +299,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/grimoldi-mwbmagwu.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
