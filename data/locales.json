@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:54:55.134Z",
+  "updatedAt": "2026-11-17T13:58:15.262Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -11,6 +11,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/eva-miller-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -19,6 +20,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/jumbalay-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -27,6 +29,7 @@
       "rubro": "Tecnología",
       "logo": "uploads/logos/cover-by-soul-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -35,6 +38,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/infinit-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -43,6 +47,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/loot-comic-local-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -51,6 +56,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/ay-que-lindo-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -59,6 +65,7 @@
       "rubro": "Moda Hombre",
       "logo": "uploads/logos/mundo-outdoor-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -67,6 +74,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/city-girl-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -75,6 +83,7 @@
       "rubro": "Tecnología",
       "logo": "uploads/logos/punto-apple-bahia-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -83,6 +92,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/loot-comic-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -91,6 +101,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/arturito-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -99,6 +110,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/corcel-citroen-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -107,6 +119,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/pato-pampa-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -115,6 +128,7 @@
       "rubro": "Moda Mujer, Moda Hombre, Zapaterías y Marroquinerías",
       "logo": "uploads/logos/cardon-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -123,6 +137,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/sestina-mwbmaal8.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -131,6 +146,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/raffael-bertin-beauty-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -139,6 +155,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/charlies-candy-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -147,6 +164,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/made-deco-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -155,6 +173,7 @@
       "rubro": "Deporte Outdoor",
       "logo": "uploads/logos/montagne-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -163,6 +182,7 @@
       "rubro": "Moda Mujer, Moda Hombre, Niños",
       "logo": "uploads/logos/kevingston-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -171,6 +191,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/santa-bohemia-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -179,6 +200,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/corcel-peugeot-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -187,6 +209,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/tarjeta-bbps-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -195,6 +218,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/eco-doc-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -203,6 +227,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/esencia-de-los-artesanos-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -211,6 +236,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/todomoda-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -219,6 +245,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/madison-brew-station-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": [
         {
           "titulo": "20% OFF Porción de torta",
@@ -244,6 +271,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/grimoldi-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -252,6 +280,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/portsaid-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -260,6 +289,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/sayhueque-mwbmagwu.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -268,6 +298,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/tucci-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -276,6 +307,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/prune-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -284,6 +316,7 @@
       "rubro": "Joyería",
       "logo": "uploads/logos/panthera-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -292,6 +325,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/levi-s-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -300,6 +334,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/julien-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -308,6 +343,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/holly-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -316,6 +352,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/casabianca-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -324,6 +361,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/aaron-pet-shop-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -332,6 +370,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/yenny-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -340,6 +379,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/yagmour-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -348,6 +388,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/victor-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -356,6 +397,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/shell-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -364,6 +406,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/xl-extra-large-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -372,6 +415,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/ver-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -380,6 +424,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/trailcar-jeep-mwbmam9f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -388,6 +433,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/rouge-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -396,6 +442,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/mega-lab-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -404,6 +451,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/skinhouse-lidherma-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -412,6 +460,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/terra-pizzas-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -420,6 +469,7 @@
       "rubro": "Tecnología",
       "logo": "uploads/logos/the-skin-store-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -428,6 +478,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/selu-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -436,6 +487,7 @@
       "rubro": "Deporte Outdoor",
       "logo": "uploads/logos/septimo-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -444,6 +496,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/sacoa-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -452,6 +505,7 @@
       "rubro": "Tecnología",
       "logo": "uploads/logos/samsung-store-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -460,6 +514,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/sapem-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -468,6 +523,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/royal-prestige-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -476,6 +532,7 @@
       "rubro": "Deporte Outdoor",
       "logo": "uploads/logos/risk-point-outdoor-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -484,6 +541,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/raffael-bertin-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -492,6 +550,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/melocoton-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -500,6 +559,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/ramira-mwbmartv.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -508,6 +568,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/rapipago-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -516,6 +577,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/the-coffee-store-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -524,6 +586,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/ramira-chulas-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -532,6 +595,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/pampero-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -540,6 +604,7 @@
       "rubro": "Deporte Tiempo Libre",
       "logo": "uploads/logos/shopping-futbol-club-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -548,6 +613,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/petit-rainbow-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -556,6 +622,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/pronto-wash-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -564,6 +631,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/parfumerie-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -572,6 +640,7 @@
       "rubro": "Joyería",
       "logo": "uploads/logos/mas-que-plata-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -580,6 +649,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/optica-ventura-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -588,6 +658,7 @@
       "rubro": "Joyería",
       "logo": "uploads/logos/joyeria-santarelli-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -596,6 +667,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/modde-gaming-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -604,6 +676,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/mcdonald-s-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -612,6 +685,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/cinemacenter-mwbmaycp.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -620,6 +694,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/mimo-co-mwbn7wxotf6.webp",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -628,6 +703,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/mcdonald-s-stand-de-postres-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -636,6 +712,7 @@
       "rubro": "Moda Hombre",
       "logo": "uploads/logos/maschio-vestire-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -644,6 +721,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/markova-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -652,6 +730,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/lovely-denim-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -660,6 +739,7 @@
       "rubro": "Zapaterías y Marroquinerías",
       "logo": "uploads/logos/lemon-pie-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -668,6 +748,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/lacoste-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -676,6 +757,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/mostaza-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -684,6 +766,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/legacy-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -692,6 +775,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/kosiuko-herencia-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -700,6 +784,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/lago-chevrolet-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -708,6 +793,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/automac-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -716,6 +802,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/havanna-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -724,6 +811,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/homo-ludens-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -732,6 +820,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/grisino-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -740,6 +829,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/bahia-automotores-fiat-mwbmb3rs.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -748,6 +838,7 @@
       "rubro": "Moda Mujer, Moda Hombre",
       "logo": "uploads/logos/queen-juana-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -756,6 +847,7 @@
       "rubro": "Juguetería",
       "logo": "uploads/logos/el-mundo-del-juguete-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -764,6 +856,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/gran-via-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -772,6 +865,7 @@
       "rubro": "Deporte Outdoor",
       "logo": "uploads/logos/ferreira-sport-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -780,6 +874,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/el-desvio-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -788,6 +883,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/desiderata-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -796,6 +892,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/doja-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -804,6 +901,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/isadora-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -812,6 +910,7 @@
       "rubro": "Belleza",
       "logo": "uploads/logos/don-telmo-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -820,6 +919,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/cipriano-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -828,6 +928,7 @@
       "rubro": "Joyería",
       "logo": "uploads/logos/carey-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -836,6 +937,7 @@
       "rubro": "Hipermercado",
       "logo": "uploads/logos/hiper-cooperativa-obrera-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -844,6 +946,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/cheeky-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -852,6 +955,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/ballon-city-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -860,6 +964,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/break-and-rest-mwbmb9xe.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -868,6 +973,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/banco-credicoop-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -876,6 +982,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/big-six-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -884,6 +991,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/betos-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -892,6 +1000,7 @@
       "rubro": "Automotores",
       "logo": "uploads/logos/arias-hermanos-volkswagen-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -900,6 +1009,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/aberdeen-angus-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -908,6 +1018,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/ave-caesar-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -916,6 +1027,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/47-street-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": true,
       "promos": []
     },
     {
@@ -924,6 +1036,7 @@
       "rubro": "Moda Hombre",
       "logo": "uploads/logos/al-alba-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     },
     {
@@ -932,6 +1045,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/brutto-pastificio-mwbmbg5f.png",
       "logoUrl": "",
+      "oculto": false,
       "promos": []
     }
   ]
