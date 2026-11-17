@@ -19,6 +19,7 @@
     logo: null,                                   // logo nuevo pendiente {path, content, url}
     logoRemoved: false,
     listQ: '',
+    listView: 'todos',                            // todos | visibles | ocultos
   };
   const preview = new Map(); // ruta -> URL local (para ver imágenes recién subidas antes de la nueva publicación)
 
@@ -306,7 +307,7 @@
     (l.promos.length ? l.promos : [undefined]).forEach((p) => addPromo(p, false));
     if (list.firstElementChild) openOnly(list.firstElementChild);
     renderLogoPrev();
-    $('#editing').innerHTML = `EDITANDO: <b>${esc(l.nombre)}</b>`;
+    $('#editing').innerHTML = `EDITANDO: <b>${esc(l.nombre)}</b>${l.oculto ? ' <span class="tag">DESHABILITADO</span>' : ''}`;
     $('#editing').hidden = false;
     $('#cancelEdit').hidden = false;
     renderList();
@@ -374,20 +375,43 @@
     } else row.style.opacity = '';
   }
 
+  async function toggleLocal(id, row) {
+    const l = state.data.locales.find((x) => x.id === id);
+    if (!l) return;
+    const ocultar = !l.oculto;
+    const data = clone(state.data);
+    data.locales.find((x) => x.id === id).oculto = ocultar;
+    const btn = row.querySelector('.toggle');
+    busy(btn, true);
+    const ok = await persist({ data, message: `Local ${ocultar ? 'deshabilitado' : 'habilitado'}: ${l.nombre}` });
+    busy(btn, false);
+    if (ok) {
+      renderList();
+      toast(ocultar
+        ? `${l.nombre} deshabilitado: ya no aparece en el directorio (sus datos y logo quedan guardados).`
+        : `${l.nombre} habilitado ✓ Vuelve a aparecer en el directorio en aproximadamente un minuto.`);
+    }
+  }
+
   /* ---------- lista ---------- */
   function renderList() {
     const q = norm(state.listQ);
     const all = [...state.data.locales].sort((a, b) => collator.compare(a.nombre, b.nombre));
-    const list = all.filter((l) => !q || norm(l.nombre).includes(q) || norm(l.rubro).includes(q));
-    $('#count').textContent = `${all.length} ${all.length === 1 ? 'LOCAL' : 'LOCALES'}`;
+    const ocultos = all.filter((l) => l.oculto).length;
+    const list = all
+      .filter((l) => state.listView === 'todos' || (state.listView === 'ocultos' ? l.oculto : !l.oculto))
+      .filter((l) => !q || norm(l.nombre).includes(q) || norm(l.rubro).includes(q));
+    $('#count').textContent = `${all.length} ${all.length === 1 ? 'LOCAL' : 'LOCALES'}${ocultos ? ` · ${ocultos} ${ocultos === 1 ? 'DESHABILITADO' : 'DESHABILITADOS'}` : ''}`;
+    document.querySelectorAll('.view-btn').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === state.listView)));
     const ul = $('#locList');
     if (!list.length) {
       ul.innerHTML = `<li class="loc-empty">${all.length ? 'No hay locales que coincidan.' : 'Todavía no cargaste locales. Usá el formulario de arriba.'}</li>`;
       return;
     }
     ul.innerHTML = list.map((l, i) => `
-      <li class="loc-row${l.id === state.editId ? ' current' : ''}" style="--i:${Math.min(i, 20)}" data-id="${esc(l.id)}">
-        <div class="loc-name">${logoDe(l) ? `<img src="${esc(src(logoDe(l)))}" alt="" loading="lazy">` : ''}<span>${esc(l.nombre)}</span><small>${l.promos.length} PROMO${l.promos.length === 1 ? '' : 'S'}</small></div>
+      <li class="loc-row${l.id === state.editId ? ' current' : ''}${l.oculto ? ' off' : ''}" style="--i:${Math.min(i, 20)}" data-id="${esc(l.id)}">
+        <div class="loc-name">${logoDe(l) ? `<img src="${esc(src(logoDe(l)))}" alt="" loading="lazy">` : ''}<span>${esc(l.nombre)}</span><small>${l.oculto ? 'OCULTO' : `${l.promos.length} PROMO${l.promos.length === 1 ? '' : 'S'}`}</small></div>
+        <button class="toggle" type="button" aria-pressed="${!l.oculto}" title="${l.oculto ? 'Mostrar en el directorio' : 'Ocultar del directorio sin borrarlo'}"><span class="sw" aria-hidden="true"></span>${l.oculto ? 'HABILITAR' : 'DESHABILITAR'}</button>
         <button class="edit" type="button">EDITAR</button>
         <button class="del" type="button">BORRAR</button>
       </li>`).join('');
@@ -531,12 +555,14 @@
   $('#lNombre').addEventListener('input', (e) => e.target.classList.remove('err'));
 
   $('#importBtn').addEventListener('click', importAll);
+  document.querySelectorAll('.view-btn').forEach((b) => b.addEventListener('click', () => { state.listView = b.dataset.view; renderList(); }));
   $('#listQ').addEventListener('input', (e) => { state.listQ = e.target.value; renderList(); });
   $('#locList').addEventListener('click', (e) => {
     const row = e.target.closest('.loc-row');
     if (!row) return;
     if (e.target.closest('.edit')) editLocal(row.dataset.id);
     if (e.target.closest('.del')) deleteLocal(row.dataset.id, row);
+    if (e.target.closest('.toggle')) toggleLocal(row.dataset.id, row);
   });
 
   window.addEventListener('beforeunload', (e) => {

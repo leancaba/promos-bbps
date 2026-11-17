@@ -41,7 +41,7 @@
       const res = await fetch('data/locales.json?t=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error(res.status);
       const data = await res.json();
-      state.locales = (data.locales || []).filter((l) => l && l.nombre);
+      state.locales = (data.locales || []).filter((l) => l && l.nombre && !l.oculto);
       setBanner(data.banner || {});
       els.status.textContent = '';
       buildFilter();
