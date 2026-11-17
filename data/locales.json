@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:42:34.415Z",
+  "updatedAt": "2026-11-17T14:42:40.665Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -506,15 +506,6 @@
       "nombre": "Rouge",
       "rubro": "Belleza",
       "logo": "uploads/logos/rouge-mwbmartv.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "mega-lab",
-      "nombre": "Mega Lab",
-      "rubro": "Servicios",
-      "logo": "uploads/logos/mega-lab-mwbmartv.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
