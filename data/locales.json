@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:50:49.283Z",
+  "updatedAt": "2026-11-17T20:51:10.190Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwkx3vl0cbf.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -1178,7 +1178,12 @@
       "logo": "uploads/logos/47-street-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "15% de descuento en efectivo y 6 cuotas sin intereses con tarjetas",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "al-alba",
