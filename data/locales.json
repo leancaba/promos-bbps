@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:13:21.082Z",
+  "updatedAt": "2026-11-17T14:13:46.293Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -789,15 +789,6 @@
       "nombre": "El Desvío",
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/el-desvio-mwbmb9xe.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "desiderata",
-      "nombre": "Desiderata",
-      "rubro": "Moda Mujer",
-      "logo": "uploads/logos/desiderata-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
