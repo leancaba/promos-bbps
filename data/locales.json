@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:00:32.535Z",
+  "updatedAt": "2026-11-17T14:00:41.226Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -909,15 +909,6 @@
       "nombre": "Betos",
       "rubro": "Gastronomía",
       "logo": "uploads/logos/betos-mwbmbg5f.png",
-      "logoUrl": "",
-      "oculto": false,
-      "promos": []
-    },
-    {
-      "id": "arias-hermanos-volkswagen",
-      "nombre": "Arias Hermanos Volkswagen",
-      "rubro": "Automotores",
-      "logo": "uploads/logos/arias-hermanos-volkswagen-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
       "promos": []
