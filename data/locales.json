@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:09:53.481Z",
+  "updatedAt": "2026-11-17T14:09:58.245Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -920,7 +920,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/brutto-pastificio-mwbmbg5f.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     }
   ]
