@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:17:15.967Z",
+  "updatedAt": "2026-11-17T15:23:35.827Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -1147,6 +1147,15 @@
       "logo": "uploads/logos/brutto-pastificio-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": true,
+      "promos": []
+    },
+    {
+      "id": "tijeritas-mwkub",
+      "nombre": "Tijeritas",
+      "rubro": "Servicios",
+      "logo": "uploads/logos/tijeritas-mwkubdvvc5h.webp",
+      "logoUrl": "",
+      "oculto": false,
       "promos": []
     }
   ]
