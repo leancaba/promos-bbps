@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:43:54.036Z",
+  "updatedAt": "2026-11-17T14:43:58.294Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwbmz4he83r.webp",
     "mobile": "uploads/promos/grafica-mobile-mwbmz9rr1w2.webp"
@@ -645,7 +645,7 @@
       "rubro": "Servicios",
       "logo": "uploads/logos/rapipago-mwbmaycp.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": []
     },
     {
