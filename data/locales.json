@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:49:37.071Z",
+  "updatedAt": "2026-11-24T20:49:51.379Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -116,7 +116,12 @@
       "logo": "uploads/logos/punto-apple-bahia-mwbmaal8.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "15 % descuento en efectivo+3 sin intereses",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "loot-comic",
