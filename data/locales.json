@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:35:49.369Z",
+  "updatedAt": "2026-11-24T20:36:17.751Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -857,7 +857,12 @@
       "logo": "uploads/logos/modde-gaming-mwbmaycp.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "30% de descuento en gaming y en accesorios de video juego",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "mcdonald-s",
