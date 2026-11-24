@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:44:55.943Z",
+  "updatedAt": "2026-11-24T20:46:08.789Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -159,11 +159,11 @@
       "promos": [
         {
           "titulo": "TARJETA BBPS",
-          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+          "descripcion": "20% de reintegro + 3 cuotas sin interés"
         },
         {
-          "titulo": "30% OFF EN EFECTIVO/TRANSFERENCIA",
-          "descripcion": ""
+          "titulo": "tarjeta naranja x",
+          "descripcion": "25% de descuento + Plan Zeta en 3 cuotas sin interés"
         }
       ]
     },
