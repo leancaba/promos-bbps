@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:53:59.449Z",
+  "updatedAt": "2026-11-24T21:56:10.395Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1183,7 +1183,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/isadora-mwbmb9xe.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
