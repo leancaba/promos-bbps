@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:56:10.395Z",
+  "updatedAt": "2026-11-24T21:57:22.088Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1184,7 +1184,16 @@
       "logo": "uploads/logos/isadora-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "Viernes: 3x2 en accesorios de cosmética",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Sábado y Domingo: 3x2 en accesorios de pelo",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "don-telmo",
