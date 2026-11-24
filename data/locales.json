@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:40:59.867Z",
+  "updatedAt": "2026-11-24T19:41:17.984Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1055,7 +1055,7 @@
       "rubro": "Gastronomía",
       "logo": "uploads/logos/gran-via-mwbmb9xe.png",
       "logoUrl": "",
-      "oculto": false,
+      "oculto": true,
       "promos": [
         {
           "titulo": "PIZZA MUZZA + 2 BEBIDAS X $20.000",
