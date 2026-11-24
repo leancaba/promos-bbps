@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:08:04.646Z",
+  "updatedAt": "2026-11-24T21:09:17.423Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -476,6 +476,10 @@
         {
           "titulo": "35% off en artículos seleccionados + 3 cuotas sin interés",
           "descripcion": "ó 6 cuotas sin interés a partir de $210.000"
+        },
+        {
+          "titulo": "Toda la colección 20% de descuento en línea de caja + 3 cuotas sin interés",
+          "descripcion": ""
         }
       ]
     },
