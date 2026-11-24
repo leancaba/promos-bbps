@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:14:44.766Z",
+  "updatedAt": "2026-11-24T19:16:30.697Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1177,7 +1177,16 @@
       "logo": "uploads/logos/aberdeen-angus-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "Bondiola a caballo con guarnición $20000",
+          "descripcion": "Con vaso chico de gaseosa"
+        },
+        {
+          "titulo": "Bife de costilla a caballo con Guarnición $20000",
+          "descripcion": "Con vaso chico de gaseosa"
+        }
+      ]
     },
     {
       "id": "ave-caesar",
