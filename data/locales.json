@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:20:07.816Z",
+  "updatedAt": "2026-11-24T19:20:53.524Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1195,7 +1195,12 @@
       "logo": "uploads/logos/ave-caesar-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "Trilogías a $15000",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "47-street",
