@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:29:58.357Z",
+  "updatedAt": "2026-11-24T19:30:15.640Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1145,7 +1145,12 @@
       "logo": "uploads/logos/cheeky-mwbmb9xe.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "30% off (no acumulable con otras promociones bancarias)",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "ballon-city",
