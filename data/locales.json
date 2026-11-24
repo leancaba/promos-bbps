@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:06:34.914Z",
+  "updatedAt": "2026-11-24T20:12:30.734Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -310,27 +310,31 @@
       "oculto": false,
       "promos": [
         {
-          "titulo": "20% OFF Porción de torta",
+          "titulo": "15% off en Waffles Café con leche + alfajor a elección $10000",
+          "descripcion": "Disponible tambien sin TACC"
+        },
+        {
+          "titulo": "Happy Hour ⁠De 17 a 22 hs",
           "descripcion": ""
         },
         {
-          "titulo": "25% OFF Sandwich Ibérico",
-          "descripcion": "bondiola desmenuzada, barbacoa, muzzarella, rúcula, batata crispy) + Papas fritas + Bebida"
-        },
-        {
-          "titulo": "⁠15% OFF cervezas tiradas",
+          "titulo": "⁠Papas Madison + 2 latas de cerveza $20000",
           "descripcion": ""
         },
         {
-          "titulo": "⁠15% OFF Cocktails",
+          "titulo": "⁠20% OFF en Sandwich Porteño",
+          "descripcion": "Ternera desmechads, muzzarella, cebolla salteada, chiminesa + Papas fritas + Bebida"
+        },
+        {
+          "titulo": "⁠2x1 Gin Tonics",
           "descripcion": ""
         },
         {
-          "titulo": "2x1 cervezas tiradas de 19 a 22 hs",
+          "titulo": "2x1 Gancia",
           "descripcion": ""
         },
         {
-          "titulo": "20% Alfajores",
+          "titulo": "2x1 Amargo Obrero",
           "descripcion": ""
         }
       ]
