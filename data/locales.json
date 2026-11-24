@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:42:07.661Z",
+  "updatedAt": "2026-11-24T20:44:13.149Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -783,7 +783,16 @@
       "logo": "uploads/logos/pampero-mwbmaycp.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "10% de descuento abonando en efectivo o transferencia en compras superiores a $100.000",
+          "descripcion": ""
+        },
+        {
+          "titulo": "15% de descuento abonando en efectivo o transferencia en compras superiores a $200.000",
+          "descripcion": ""
+        }
+      ]
     },
     {
       "id": "petit-rainbow",
