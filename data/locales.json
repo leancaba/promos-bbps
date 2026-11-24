@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:30:15.640Z",
+  "updatedAt": "2026-11-24T19:35:29.875Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1110,8 +1110,20 @@
       "oculto": false,
       "promos": [
         {
-          "titulo": "2X1 EN TORTAS",
-          "descripcion": "TODO EL DÍA"
+          "titulo": "2x1 en cafe los tres dias",
+          "descripcion": "de 16:00 a 19:00"
+        },
+        {
+          "titulo": "20% de descuento en jugos y licuados todo el día",
+          "descripcion": "Durante los 3 dias."
+        },
+        {
+          "titulo": "Promo especial: papas con cheddar, panceta y verdeo + cerveza $12.500",
+          "descripcion": "Los 3 dias durante todo el día"
+        },
+        {
+          "titulo": "2x1 en ramos de flores de Fernanda Piangatelli",
+          "descripcion": ""
         }
       ]
     },
