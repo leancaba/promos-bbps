@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:48:34.648Z",
+  "updatedAt": "2026-11-24T20:49:37.071Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -115,7 +115,7 @@
       "rubro": "Tecnología",
       "logo": "uploads/logos/punto-apple-bahia-mwbmaal8.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
