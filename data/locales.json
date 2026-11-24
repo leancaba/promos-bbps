@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:22:40.723Z",
+  "updatedAt": "2026-11-24T19:25:46.046Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1168,7 +1168,16 @@
       "logo": "uploads/logos/betos-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "LOMITO BETOS: tomate-lechuga-queso-jamón y mayonesa mediano $ 18.500 / Grande $ 21.500",
+          "descripcion": "+ papas fritas + vaso de gaseosa chico"
+        },
+        {
+          "titulo": "LOMO O MILA AL PLATO: con jamón, queso y huevo $ 20.000",
+          "descripcion": "acompañado a elección: con lechuga y tomate o papas fritas + vaso chico gaseosa"
+        }
+      ]
     },
     {
       "id": "aberdeen-angus",
