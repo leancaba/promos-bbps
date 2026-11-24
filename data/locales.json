@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:01:31.604Z",
+  "updatedAt": "2026-11-24T21:03:13.831Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -425,10 +425,10 @@
       "promos": [
         {
           "titulo": "TARJETA BBPS",
-          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+          "descripcion": "20% de reintegro + 3 cuotas sin interés"
         },
         {
-          "titulo": "20% off en \"somos denim\"",
+          "titulo": "Toda la colección 20% de descuento en línea de caja + 3 cuotas sin interés",
           "descripcion": ""
         }
       ]
