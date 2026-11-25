@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:41:58.446Z",
+  "updatedAt": "2026-11-25T17:42:57.619Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -891,8 +891,12 @@
       "oculto": false,
       "promos": [
         {
-          "titulo": "TARJETA BBPS",
-          "descripcion": "15% de reintegro + 3 cuotas sin interés"
+          "titulo": "hasta 30% de descuento en marcas seleccionadas de relojería",
+          "descripcion": ""
+        },
+        {
+          "titulo": "hasta 20% en productos seleccionados de joyería",
+          "descripcion": ""
         }
       ]
     },
