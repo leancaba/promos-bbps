@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:45:14.181Z",
+  "updatedAt": "2026-11-25T16:46:02.472Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1146,12 +1146,8 @@
       "oculto": false,
       "promos": [
         {
-          "titulo": "PIZZA MUZZA + 2 BEBIDAS X $20.000",
-          "descripcion": ""
-        },
-        {
-          "titulo": "2X1 EN CAFETERIA",
-          "descripcion": "BEBIDAS"
+          "titulo": "20% de descuento en toda la carta",
+          "descripcion": "En efectivo"
         }
       ]
     },
