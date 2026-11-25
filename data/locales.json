@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:59:26.756Z",
+  "updatedAt": "2026-11-25T18:15:08.520Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -527,7 +527,7 @@
       "rubro": "Otros",
       "logo": "uploads/logos/aaron-pet-shop-mwbmam9f.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": [
         {
           "titulo": "tarjeta bbps",
