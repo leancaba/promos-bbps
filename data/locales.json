@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:50:27.915Z",
+  "updatedAt": "2026-11-25T16:52:00.876Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1285,7 +1285,12 @@
       "logo": "uploads/logos/big-six-mwbmbg5f.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "chessy $15990",
+          "descripcion": "Con gaseosa y papas medianas"
+        }
+      ]
     },
     {
       "id": "betos",
