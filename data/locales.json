@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:40:33.601Z",
+  "updatedAt": "2026-11-25T16:41:13.318Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -797,7 +797,12 @@
       "logo": "uploads/logos/the-coffee-store-mwbmaycp.png",
       "logoUrl": "",
       "oculto": false,
-      "promos": []
+      "promos": [
+        {
+          "titulo": "2x1 EN CAFÉ",
+          "descripcion": "BLACK COFFEE DAYS\nEntre compra y compra, una buena pausa."
+        }
+      ]
     },
     {
       "id": "ramira-chulas",
