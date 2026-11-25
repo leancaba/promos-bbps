@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:41:13.318Z",
+  "updatedAt": "2026-11-25T16:41:43.538Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -70,7 +70,7 @@
       "rubro": "Hogar y Deco",
       "logo": "uploads/logos/ay-que-lindo-mwbmaal8.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": [
         {
           "titulo": "tarjeta bbps",
