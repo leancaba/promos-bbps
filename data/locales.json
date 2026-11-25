@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:52:00.876Z",
+  "updatedAt": "2026-11-25T17:02:53.466Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1403,6 +1403,24 @@
         {
           "titulo": "10% off en servicios pago efectivo únicamente.",
           "descripcion": ""
+        }
+      ]
+    },
+    {
+      "id": "equs-mwwdd",
+      "nombre": "Equs",
+      "rubro": "Moda Hombre",
+      "logo": "",
+      "logoUrl": "",
+      "oculto": false,
+      "promos": [
+        {
+          "titulo": "tarjeta BBPS",
+          "descripcion": "20% reintegro + 3 cuotas sin interés"
+        },
+        {
+          "titulo": "NARANJA X",
+          "descripcion": "25% de descuento + Plan Zeta en 3 cuotas sin interés"
         }
       ]
     }
