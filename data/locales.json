@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:13:44.053Z",
+  "updatedAt": "2026-11-25T17:15:21.587Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -934,7 +934,7 @@
       "rubro": "Entretenimiento",
       "logo": "uploads/logos/cinemacenter-mwbmaycp.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
