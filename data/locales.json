@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:35:36.413Z",
+  "updatedAt": "2026-11-26T19:43:22.559Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1438,7 +1438,7 @@
       "id": "equs-mwwdd",
       "nombre": "Equus",
       "rubro": "Moda Hombre",
-      "logo": "",
+      "logo": "uploads/logos/equus-mwxyjxr6ilx.webp",
       "logoUrl": "",
       "oculto": false,
       "promos": [
