@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:44:36.320Z",
+  "updatedAt": "2026-11-26T20:53:33.578Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -38,6 +38,14 @@
         {
           "titulo": "TARJETA BBPS",
           "descripcion": "20% de reintegro + 3 cuotas sin interés"
+        },
+        {
+          "titulo": "15% descuento con la compra de 6 frascos",
+          "descripcion": "En efectivo o transferencia"
+        },
+        {
+          "titulo": "15% descuento con la compra de 2 frascos de 3 kg",
+          "descripcion": "En efectivo o transferencia"
         }
       ]
     },
