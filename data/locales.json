@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:25:54.511Z",
+  "updatedAt": "2026-11-26T18:56:20.961Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1140,12 +1140,16 @@
           "descripcion": "25% de reintegro + 3 cuotas sin interés"
         },
         {
-          "titulo": "20% off",
+          "titulo": "20% off en toda la tienda, en 1 pago.",
           "descripcion": "(no acumulable con otras promociones)"
         },
         {
           "titulo": "tarjeta naranja x",
           "descripcion": "25% de descuento + Plan Zeta en 3 cuotas sin interés"
+        },
+        {
+          "titulo": "Descuentos Hasta 70% en productos seleccionados",
+          "descripcion": "En 3 pagos (a partir de $ 50.000) o 6 pagos ( a partir de $ 100.000)"
         }
       ]
     },
