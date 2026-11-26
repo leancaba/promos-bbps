@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:53:33.578Z",
+  "updatedAt": "2026-11-26T21:53:30.642Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -996,7 +996,7 @@
       "rubro": "Niños",
       "logo": "uploads/logos/mimo-co-mwbn7wxotf6.webp",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": [
         {
           "titulo": "TARJETA BBPS",
