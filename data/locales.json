@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:02:00.480Z",
+  "updatedAt": "2026-11-27T17:53:10.341Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -1031,7 +1031,7 @@
       "rubro": "Moda Mujer",
       "logo": "uploads/logos/markova-mwbmb3rs.png",
       "logoUrl": "",
-      "oculto": true,
+      "oculto": false,
       "promos": []
     },
     {
