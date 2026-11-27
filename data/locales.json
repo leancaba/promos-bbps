@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:34:32.438Z",
+  "updatedAt": "2026-11-27T19:35:00.854Z",
   "banner": {
     "desktop": "uploads/promos/grafica-desktop-mwnrhp6813b.webp",
     "mobile": "uploads/promos/grafica-mobile-mwnrhufd3el.webp"
@@ -424,10 +424,10 @@
       "promos": [
         {
           "titulo": "TARJETA BBPS",
-          "descripcion": "25% de reintegro + 3 cuotas sin interés"
+          "descripcion": "20% de reintegro + 3 cuotas sin interés"
         },
         {
-          "titulo": "20% OFF EN EFECTIVO/TRANSFERENCIA",
+          "titulo": "25% OFF EN EFECTIVO/TRANSFERENCIA",
           "descripcion": ""
         }
       ]
